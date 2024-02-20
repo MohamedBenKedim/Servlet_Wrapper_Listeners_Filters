@@ -1,0 +1,36 @@
+Tue Feb 20 22:28:26 CET 2024 - Request: GET http://localhost:8080/servlet_wrapper_filter_war_exploded/ from IP: 127.0.0.1
+
+Tue Feb 20 22:28:26 CET 2024 - Response: Status 404
+
+Tue Feb 20 22:28:26 CET 2024 - Request: GET http://localhost:8080/servlet_wrapper_filter_war_exploded/ from IP: 0:0:0:0:0:0:0:1
+
+Tue Feb 20 22:28:26 CET 2024 - Response: Status 404
+
+Tue Feb 20 22:28:29 CET 2024 - Request: GET http://localhost:8080/servlet_wrapper_filter_war_exploded/login.jsp from IP: 0:0:0:0:0:0:0:1
+
+Tue Feb 20 22:28:30 CET 2024 - Response: Status 200
+
+Tue Feb 20 22:28:30 CET 2024 - Request: GET http://localhost:8080/servlet_wrapper_filter_war_exploded/script.js from IP: 0:0:0:0:0:0:0:1
+
+Tue Feb 20 22:28:30 CET 2024 - Response: Status 404
+
+Tue Feb 20 22:28:35 CET 2024 - Request: POST http://localhost:8080/servlet_wrapper_filter_war_exploded/loginServlet from IP: 0:0:0:0:0:0:0:1
+
+Tue Feb 20 22:28:35 CET 2024 - Response: Status 302
+
+Tue Feb 20 22:28:35 CET 2024 - Request: GET http://localhost:8080/servlet_wrapper_filter_war_exploded/helloworld.jsp from IP: 0:0:0:0:0:0:0:1
+
+Tue Feb 20 22:28:36 CET 2024 - Response: Status 200
+
+Tue Feb 20 22:28:37 CET 2024 - Request: GET http://localhost:8080/servlet_wrapper_filter_war_exploded/DisconnectServlet from IP: 0:0:0:0:0:0:0:1
+
+Tue Feb 20 22:28:37 CET 2024 - Response: Status 302
+
+Tue Feb 20 22:28:37 CET 2024 - Request: GET http://localhost:8080/servlet_wrapper_filter_war_exploded/login.jsp from IP: 0:0:0:0:0:0:0:1
+
+Tue Feb 20 22:28:37 CET 2024 - Response: Status 200
+
+Tue Feb 20 22:28:37 CET 2024 - Request: GET http://localhost:8080/servlet_wrapper_filter_war_exploded/script.js from IP: 0:0:0:0:0:0:0:1
+
+Tue Feb 20 22:28:37 CET 2024 - Response: Status 404
+
